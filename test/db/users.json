@@ -1,0 +1,12 @@
+[
+  {
+    "username": "bob",
+    "password": "secure",
+    "_id": {"$oid": "0000000000000000000000a1"}
+  },
+  {
+    "username": "dave",
+    "password": "notdave",
+    "_id": {"$oid": "0000000000000000000000a2"}
+  }
+]
